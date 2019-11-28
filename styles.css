@@ -1,0 +1,74 @@
+/* Interview */
+
+* {
+	box-sizing: border-box;
+}
+
+header{
+	
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+body {
+	font-family: "Helvetica";
+	font-style: normal;
+	background-color:#222831;
+	
+}
+
+
+h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	letter-spacing: -0.05em;
+	text-transform: uppercase;
+	line-height: 1;
+	color:lightskyblue;
+	mix-blend-mode: color-dodge;
+	font-size: 5em;
+	text-align: center;
+	right: -0.15em;
+	top: -0.15em;
+	position: fixed;
+	transform: rotate(45deg);
+	
+}
+
+h2{
+	font-size: 600%;
+	margin-left: 300px;
+	margin-right: 300px;
+	color: whitesmoke;
+}
+em{
+	margin-left: 300px;
+	color: #393e46;
+}
+
+h3{
+	margin-left: 300px;
+	margin-right: 300px;
+	font-size: 300%;
+	color: #a3f7bf;
+		
+}
+
+h4{
+	margin-left: 300px;
+	margin-right: 300px;
+	font-size: 150%;
+	color: #29a19c;
+	
+}
+
+p{
+	margin-left: 300px;
+	margin-right: 300px;
+	color: slategray;
+	
+	
+}
